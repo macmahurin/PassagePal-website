@@ -36,7 +36,7 @@ body {
 
 .nav-brand h1 {
     font-size: 1.5rem;
-    color: #2563eb;
+    color: #7C3AED;
     font-weight: 700;
 }
 
@@ -53,12 +53,12 @@ body {
 }
 
 .nav-links a:hover {
-    color: #2563eb;
+    color: #7C3AED;
 }
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
+    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
     color: white;
     padding: 6rem 0;
     text-align: center;
@@ -120,7 +120,7 @@ body {
 
 .btn-primary {
     background-color: white;
-    color: #2563eb;
+    color: #7C3AED;
 }
 
 .btn-primary:hover {
@@ -220,7 +220,7 @@ body {
 .step-number {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
+    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
     color: white;
     border-radius: 50%;
     display: flex;
@@ -245,7 +245,7 @@ body {
 
 /* CTA Section */
 .cta {
-    background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
+    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
     color: white;
     padding: 5rem 0;
     text-align: center;
@@ -398,7 +398,7 @@ body {
 }
 
 .legal-page a {
-    color: #2563eb;
+    color: #7C3AED;
     text-decoration: none;
 }
 
@@ -409,7 +409,7 @@ body {
 .back-link {
     display: inline-block;
     margin-bottom: 2rem;
-    color: #2563eb;
+    color: #7C3AED;
     text-decoration: none;
     font-weight: 500;
 }
