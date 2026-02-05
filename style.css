@@ -65,12 +65,12 @@ body {
 }
 
 .nav-links a:hover {
-    color: #7C3AED;
+    color: #6366F1;
 }
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
+    background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
     color: white;
     padding: 6rem 0;
     text-align: center;
@@ -132,7 +132,7 @@ body {
 
 .btn-primary {
     background-color: white;
-    color: #7C3AED;
+    color: #6366F1;
 }
 
 .btn-primary:hover {
@@ -232,7 +232,7 @@ body {
 .step-number {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
+    background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
     color: white;
     border-radius: 50%;
     display: flex;
@@ -257,7 +257,7 @@ body {
 
 /* CTA Section */
 .cta {
-    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
+    background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
     color: white;
     padding: 5rem 0;
     text-align: center;
@@ -423,7 +423,7 @@ body {
 }
 
 .legal-page a {
-    color: #7C3AED;
+    color: #6366F1;
     text-decoration: none;
 }
 
@@ -434,7 +434,7 @@ body {
 .back-link {
     display: inline-block;
     margin-bottom: 2rem;
-    color: #7C3AED;
+    color: #6366F1;
     text-decoration: none;
     font-weight: 500;
 }
