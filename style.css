@@ -34,6 +34,18 @@ body {
     align-items: center;
 }
 
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.nav-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
 .nav-brand h1 {
     font-size: 1.5rem;
     color: #6366F1;
@@ -53,12 +65,12 @@ body {
 }
 
 .nav-links a:hover {
-    color: #6366F1;
+    color: #7C3AED;
 }
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
+    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
     color: white;
     padding: 6rem 0;
     text-align: center;
@@ -120,7 +132,7 @@ body {
 
 .btn-primary {
     background-color: white;
-    color: #6366F1;
+    color: #7C3AED;
 }
 
 .btn-primary:hover {
@@ -220,7 +232,7 @@ body {
 .step-number {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
+    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
     color: white;
     border-radius: 50%;
     display: flex;
@@ -245,7 +257,7 @@ body {
 
 /* CTA Section */
 .cta {
-    background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
+    background: linear-gradient(135deg, #7C3AED 0%, #6B21A8 100%);
     color: white;
     padding: 5rem 0;
     text-align: center;
@@ -275,6 +287,19 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 2rem;
     margin-bottom: 2rem;
+}
+
+.footer-logo-section {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 1rem;
+}
+
+.footer-logo {
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
 }
 
 .footer-section h3,
@@ -398,7 +423,7 @@ body {
 }
 
 .legal-page a {
-    color: #6366F1;
+    color: #7C3AED;
     text-decoration: none;
 }
 
@@ -409,7 +434,7 @@ body {
 .back-link {
     display: inline-block;
     margin-bottom: 2rem;
-    color: #6366F1;
+    color: #7C3AED;
     text-decoration: none;
     font-weight: 500;
 }
